@@ -27,4 +27,5 @@ Sometimes, users and administrators need to connect from one private network to 
 | 172.20.10.0/28      | 172.20.10.0      | 172.20.10.15   | Apple iPhone/iPad Personal Hotspots      |
 | 10.0.0.0/24         | 10.0.0.0         | 10.0.0.255     | Commonly used                            |
 | 172.16.0.0/24       | 172.16.0.0       | 172.16.0.255   | Commonly used                            |
+| 172.17.0.0/16       | 172.17.0.0       | 172.17.255.255 | Kubernetes                               |
 | 10.1.10.0/24        | 10.1.10.0        | 10.1.10.255    | Default network for Comcast routers      |
