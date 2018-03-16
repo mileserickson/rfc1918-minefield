@@ -25,19 +25,19 @@ Sometimes, users and administrators need to connect from one private network to 
 | 10.0.0.0/24         | 10.0.0.0         | 10.0.0.255      | Commonly used                            |
 | 10.1.1.0/24         | 10.1.1.0         | 10.1.1.255      | Commonly used                            |
 | 10.10.1.0/24        | 10.10.1.0        | 10.10.1.255     | Default network (Asus)                   |
-| 10.1.10.0/24        | 10.1.10.0        | 10.1.10.255     | Default network for Comcast routers      |
+| 10.1.10.0/24        | 10.1.10.0        | 10.1.10.255     | Default network (Comcast)                |
 | 172.16.0.0/24       | 172.16.0.0       | 172.16.0.255    | Commonly used                            |
 | 172.17.0.0/16       | 172.17.0.0       | 172.17.255.255  | Kubernetes                               |
 | 172.20.10.0/28      | 172.20.10.0      | 172.20.10.15    | Apple iPhone/iPad Personal Hotspots      |
-| 192.168.0.0/24      | 192.168.0.0      | 192.168.0.255   | Default network (Linksys, Huawei, etc.)  |
-| 192.168.1.0/24      | 192.168.1.0      | 192.168.1.255   | Default network (Linksys, Huawei, etc.)  |
-| 192.168.2.0/24      | 192.168.2.0      | 192.168.2.255   | Default network (Linksys etc.)           |
+| 192.168.0.0/24      | 192.168.0.0      | 192.168.0.255   | Default network (Linksys, Huawei)        |
+| 192.168.1.0/24      | 192.168.1.0      | 192.168.1.255   | Default network (Linksys, Huawei)        |
+| 192.168.2.0/24      | 192.168.2.0      | 192.168.2.255   | Default network (Linksys)                |
 | 192.168.3.0/24      | 192.168.3.0      | 192.168.3.255   | Default network (Linksys, Huawei)        |
 | 192.168.4.0/24      | 192.168.4.0      | 192.168.4.255   | Default network (Zoom, ZyXEL)            |
 | 192.168.8.0/24      | 192.168.8.0      | 192.168.8.255   | Default network (Huawei)                 |
-| 192.168.15.0/24     | 192.168.15.0     | 192.168.15.255  | Default network (Linksys etc.)           |
-| 192.168.16.0/24     | 192.168.16.0     | 192.168.16.255  | Default network (Linksys etc.)           |
+| 192.168.15.0/24     | 192.168.15.0     | 192.168.15.255  | Default network (Linksys)                |
+| 192.168.16.0/24     | 192.168.16.0     | 192.168.16.255  | Default network (Linksys)                |
 | 192.168.123.0/24    | 192.168.123.0    | 192.168.123.255 | Default network (Sitecom)                |
-| 192.168.168.0/24    | 192.168.168.0    | 192.168.168.255 | SonicWall
+| 192.168.168.0/24    | 192.168.168.0    | 192.168.168.255 | Default network (SonicWall)              |
 | 192.168.223.0/24    | 192.168.223.0    | 192.168.223.255 | Default network (Trendnet)               |
 | 192.168.254.0/24    | 192.168.254.0    | 192.168.254.255 | Default network (Siemens, Actiontec)     |
