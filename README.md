@@ -37,6 +37,7 @@ Sometimes, users and administrators need to connect from one private network to 
 | 192.168.8.0/24      | 192.168.8.0      | 192.168.8.255   | Default network (Huawei)                 |
 | 192.168.15.0/24     | 192.168.15.0     | 192.168.15.255  | Default network (Linksys)                |
 | 192.168.16.0/24     | 192.168.16.0     | 192.168.16.255  | Default network (Linksys)                |
+| 192.168.100.0/24    | 192.168.100.1    | 192.168.100.255 | Default network (Motorola Surfboard)     |
 | 192.168.123.0/24    | 192.168.123.0    | 192.168.123.255 | Default network (Sitecom)                |
 | 192.168.168.0/24    | 192.168.168.0    | 192.168.168.255 | Default network (SonicWall)              |
 | 192.168.223.0/24    | 192.168.223.0    | 192.168.223.255 | Default network (Trendnet)               |
