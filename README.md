@@ -16,7 +16,7 @@ All of these address ranges are not routable on the internet. Because they are m
 
 ### Caveat
 
-Sometimes, users and administrators need to connect from one private network to another using a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). This becomes impossible if the two private networks have identical or overlapping subnets.
+Sometimes, users and administrators need to connect from one private network to another using a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). This becomes challenging if the two private networks use identical or overlapping subnets.
 
 ## The Mines: Ranges to Avoid
 
